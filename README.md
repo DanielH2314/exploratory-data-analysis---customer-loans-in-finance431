@@ -18,5 +18,5 @@ mainworkbook.ipynb - interactive notebook explaining how data was cleaned
 analysis.ipynb - interactive notebook explaining how data was analysed and conclusions drawn
 EDAClasses.py - used to create classes to carry out cleaning of data, this was ultimately not used due to deadlines and issues in initialising the classes in the ipynb
 
-#Areas for improvement
+# Areas for improvement
 In the future I would like to better utilise classes to carry out data cleaning, so that they can be used again for any future work
